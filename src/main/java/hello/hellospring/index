@@ -1,0 +1,7 @@
+1. member domain (entity) 생성 (date repository 가 정해지지 않았음)
+2. member repository interface 생성 (원래는 jpaRepository 를 상속받고 사용)
+여기서는 직접 repository 구현
+3. memory member repository 구현
+4. 방금 구현한 memory member repository 가 정상 작동하는지 테스트 케이스 작성
+
+

@@ -3,5 +3,7 @@
 여기서는 직접 repository 구현
 3. memory member repository 구현
 4. 방금 구현한 memory member repository 가 정상 작동하는지 테스트 케이스 작성
-
-
+5. member service 구현
+6. 방금  구현한 member service 가 정상 작동하는지 테스트 케이스 작성
+7. member controller 구현 (DI: 생성자 주입, setter 주입, 필드 주입)
+8. member form class 생성
